@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2_Counter_With_Buttons/static/css/main.24d4ad42.chunk.css",
+    "main.js": "/2_Counter_With_Buttons/static/js/main.40da2375.chunk.js",
+    "main.js.map": "/2_Counter_With_Buttons/static/js/main.40da2375.chunk.js.map",
+    "runtime-main.js": "/2_Counter_With_Buttons/static/js/runtime-main.a49d7659.js",
+    "runtime-main.js.map": "/2_Counter_With_Buttons/static/js/runtime-main.a49d7659.js.map",
+    "static/js/2.6bd6a92b.chunk.js": "/2_Counter_With_Buttons/static/js/2.6bd6a92b.chunk.js",
+    "static/js/2.6bd6a92b.chunk.js.map": "/2_Counter_With_Buttons/static/js/2.6bd6a92b.chunk.js.map",
+    "index.html": "/2_Counter_With_Buttons/index.html",
+    "precache-manifest.db3ca0ca0e6c04aebfa85203af086c4d.js": "/2_Counter_With_Buttons/precache-manifest.db3ca0ca0e6c04aebfa85203af086c4d.js",
+    "service-worker.js": "/2_Counter_With_Buttons/service-worker.js",
+    "static/css/main.24d4ad42.chunk.css.map": "/2_Counter_With_Buttons/static/css/main.24d4ad42.chunk.css.map",
+    "static/js/2.6bd6a92b.chunk.js.LICENSE.txt": "/2_Counter_With_Buttons/static/js/2.6bd6a92b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a49d7659.js",
+    "static/js/2.6bd6a92b.chunk.js",
+    "static/css/main.24d4ad42.chunk.css",
+    "static/js/main.40da2375.chunk.js"
+  ]
+}
